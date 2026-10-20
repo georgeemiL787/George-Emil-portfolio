@@ -2,7 +2,7 @@
 
 Personal portfolio for George Emil Sadek, a Computer Engineering graduate focused on applied AI, computer vision, machine learning backends, and autonomous perception systems.
 
-Live site: https://georgeemil787.github.io/George-Emil-protfolio/
+Live site: https://georgeemil787.github.io/George-Emil-portfolio/
 
 ## Featured work
 
