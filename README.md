@@ -34,7 +34,7 @@ Projects include category filters, technology tags, and direct repository links.
 
 ## Frontend design
 
-The editorial design is inspired by [Superdesign's Bold Editorial Design Style](https://superdesign.dev/library?selected=bold-editorial-design-style&category=style), with an original navy/sage palette, large condensed headings, a live particle sphere, and SVG project diagrams. All 14 projects and the NTI Agentic AI training entry are retained.
+The editorial design is inspired by [Superdesign's Bold Editorial Design Style](https://superdesign.dev/library?selected=bold-editorial-design-style&category=style), with an original navy/sage palette, large condensed headings, a live particle sphere, and SVG project diagrams. All 15 projects and the NTI Agentic AI training entry are retained.
 
 This remains a static HTML/CSS/JavaScript site suitable for GitHub Pages. No build step is required. Run `python -m http.server 8765` from this folder to preview it locally. Fonts load from Google Fonts, with local font fallbacks.
 

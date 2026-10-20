@@ -425,6 +425,12 @@ h1 span {
 .project-card.featured {
   grid-column:span 3;
 }
+/* With two featured cards first, a lone card in the last row is centred. */
+@media(min-width:801px) {
+  .projects-list:not(.is-filtered) .project-card:not(.featured):last-child:nth-child(3n) {
+    grid-column:3 / span 2;
+  }
+}
 .projects-list.is-filtered {
   grid-template-columns:repeat(3,minmax(0,1fr));
 }
